@@ -1,24 +1,48 @@
 
+# Primer to Git
+
+---
+
 ## Agenda
 
 1. What is Git?
-2. Why/How would I use Git?
+	1. Why use Git?
+	1. How do I use Git?
 3. Terminology
 4. 
 
 ---
 
-
 ## What is Git?
 
-Git is a version control system used to track changes to documents. These changes can be modifications, deletions or additions and the documents can be anything from plaintext to binary images.
+Git is a **version control system** used to track changes to documents. These changes can be modifications, deletions or additions and the documents can be anything from plaintext to binary images.
 
-- version control system
-- records changes
++++
+
+### Why use Git?
+
+Git is a distributed method of for multiple users to collaborate on a common set of files. It is especially useful if you need to
+
+- Obtain a detailed history of documents
+- Control Access to Documents
+- Collaborate
+	- Resolve Conflicts
+
++++
+
+### How do I use Git?
+
++++
+
+### Git vs. Github, Gitlab, Bitbucket
+
+Github, Gitlab, and Bitbucket are companies which provide hosting for code repositories.
+
+---
+
 - use cases (track changes, compare to microsoft-track-changes) x is to B as C is to
 - collaboration
 	- my code
-- git vs github/gitlab/bitbucket/...
 - repository
 	- aka: repo, project
 - snapshots and history
