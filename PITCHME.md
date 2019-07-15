@@ -1,4 +1,3 @@
-https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 
 ## Agenda
 
@@ -38,6 +37,7 @@ Git is a version control system used to track changes to documents. These change
 - code review
 
 Technical
+https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 https://www.departmentofproduct.com/blog/github-explained-for-product-managers/
 https://backlog.com/git-tutorial/branching-workflows/
 
