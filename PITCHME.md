@@ -1,5 +1,5 @@
 
-# Primer to Git
+# A Git Primer
 
 ---
 
@@ -21,7 +21,7 @@ Git is a **version control system** used to track changes to documents. These ch
 
 ### Why use Git?
 
-Git is a distributed method of for multiple users to collaborate on a common set of files. It is especially useful if you need to
+Git is a distributed method for multiple users to collaborate on a common set of files. It is especially useful if you need to
 
 - Obtain a detailed history of documents
 - Control Access to Documents
@@ -31,6 +31,8 @@ Git is a distributed method of for multiple users to collaborate on a common set
 +++
 
 ### How do I use Git?
+
+
 
 +++
 
